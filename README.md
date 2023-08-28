@@ -11,3 +11,5 @@ See navigator.py and KratosWeek2.mov
 ## Week 3:
 See script1.py and script2.py and KratosWeek3.mov
 
+## Week 4:
+See dijikstra.py , astar.py and output videos.
