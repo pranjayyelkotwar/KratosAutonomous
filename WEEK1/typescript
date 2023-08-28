@@ -1,0 +1,13 @@
+Script started on 2023-07-29 12:38:23+00:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="80" LINES="24"]
+]0;callisto@myserver: ~/catkin_ws[01;32mcallisto@myserver[00m:[01;34m~/catkin_ws[00m$ ls
+[0m[01;34mbuild[0m  [01;34mdevel[0m  [01;34msrc[0m  typescript
+]0;callisto@myserver: ~/catkin_ws[01;32mcallisto@myserver[00m:[01;34m~/catkin_ws[00m$ cd ..
+]0;callisto@myserver: ~[01;32mcallisto@myserver[00m:[01;34m~[00m$ cd
+]0;callisto@myserver: ~[01;32mcallisto@myserver[00m:[01;34m~[00m$ cd Downloads/
+]0;callisto@myserver: ~/Downloads[01;32mcallisto@myserver[00m:[01;34m~/Downloads[00m$ ls
+[0m[01;31mcode_1.80.1-1689182504_arm64.deb[0m  [01;32mforward.py[0m
+]0;callisto@myserver: ~/Downloads[01;32mcallisto@myserver[00m:[01;34m~/Downloads[00m$ ./o[Kdf[K[Kforward.py 
+]0;callisto@myserver: ~/Downloads[01;32mcallisto@myserver[00m:[01;34m~/Downloads[00m$ exit
+exit
+
+Script done on 2023-07-29 12:41:06+00:00 [COMMAND_EXIT_CODE="0"]
